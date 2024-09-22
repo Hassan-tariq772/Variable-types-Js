@@ -81,7 +81,12 @@ if (true) {
 }
 
 console.log(name);  // Hassan (the outer variable remains unchanged)
+////////////////
 
+let age7='12';
+if (age7 !=== 18) { 
+  console.log("You are not an human  ");
+}
 
 
 
@@ -91,3 +96,4 @@ console.log(name);  // Hassan (the outer variable remains unchanged)
 
 let iceCream = 3;
 alert(typeof(iceCream))
+console.log('hello'+3+'icecream'+5660)
